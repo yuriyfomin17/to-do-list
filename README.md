@@ -66,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+1.	I don’t dislike any specific technology as far as it fulfils its purposes. For example, python is good for data analytics/machine learning due to its well-developed pandas and keras library. At the same time java is good in terms of server side. Java has really good thread handling abstract apis like CompletableFuture which allows to handle asynchronous task effectively. 
+I prefer to write in Java then in python. However, python has its purpose
+
+2.	I assume that we are talking about software programs. In my opinion good software is robust, fault-tolerant and has high-availability. In addition, it should be agile so that it is easy to integrate it with third party libraries and quickly develop mvp. Hence, it should be well-written – e.g., no boilerplate code. If talking about java then functional interface which were introduced in java 8 allowed developers to avoid a lot of boilerplate code
+
+3.	My last interesting challenged involved designing personalized upsell algorithms for customers based on the products that they bought. I had to work with several part of the stack as I was in charge both front-end and backend aspect of this algorithm. For example, I had to design models in python, store trained models in database and use java to quickly retrieve them from db. In addition, I needed to integrate it in our mobile apps (IOS, Android) for smooth user experience.
+
+I could overcome this challenge by reading lots of interesting machine learning/java literature out of job hours which I have enjoyed. Also, by asking question in the team
+
+4.	In my next role I am looking for opportunity for growth as software backend engineer. Precisely, I want to be a better java engineer
+
+5.	Right now, I am interested more in code side of software development, but I always try to understand what is the business purposes of code lines which I write. It gives better understanding of the process and more space for solution. Hence, software that I write should bring value to the company – e.g., greater revenue or less capital/operational expenses 
+
